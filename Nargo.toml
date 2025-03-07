@@ -1,0 +1,7 @@
+[package]
+name = "u256_for_smart_contracts"
+type = "lib"
+authors = [""]
+compiler_version = ">=1.0.0"
+
+[dependencies]
